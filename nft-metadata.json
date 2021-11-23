@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Park",
+        "value": "Yosemite National Park"
+      },
+      {
+        "trait_type": "Trail",
+        "value": "Half Dome"
+      }
+    ],
+    "description": "An amazingly beautiful hike in an amazingly beautiful place.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQnh6t2sSNYXWiau9dzx3Gtb6o4DQZTqAM8bEQ4H4enNF",
+    "name": "Half Dome"
+  }
+  
